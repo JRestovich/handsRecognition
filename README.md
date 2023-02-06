@@ -1,4 +1,5 @@
-Para oinstalar ael entrono de desarrolllo del proyecto se de debe seguir los siguientes pasos:
+## Como usar el entrono de desarrollo
+Para instalar ael entrono de desarrolllo del proyecto se de debe seguir los siguientes pasos:
 1) [instalar docker](https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository)
 
 2) [Instalar el docker de nvidia](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker)
@@ -15,3 +16,8 @@ Para oinstalar ael entrono de desarrolllo del proyecto se de debe seguir los sig
 
 7) Develop and enjoy
 
+## Curso
+[Cursito](https://deeplizard.com/learn/video/RznKVRTFkBY)
+[Documentacion Keras](https://keras.io/)
+[11k hands paper](https://sites.google.com/view/11khands?pli=1)
+[Para ver papers](https://sci.hubg.org/mirror)
