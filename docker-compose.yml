@@ -1,0 +1,22 @@
+services:
+  keras-container:
+    image: tensorflow/tensorflow:latest-gpu
+    container_name: "kerasContainer"
+
+    command: bash
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              capabilities: [gpu]
+
+    volumes:
+      - ./code:/home/Projects/code
+
+    tty: true
+
+    restart: on-failure
+
+    privileged: true
