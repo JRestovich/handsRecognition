@@ -13,7 +13,7 @@ services:
               capabilities: [gpu]
 
     volumes:
-      - ./code:/home/Projects/code
+      - ./code:/home/Projects/
 
     tty: true
 
