@@ -1,10 +1,10 @@
 services:
   keras-container:
-    image: tensorflow/tensorflow:latest-gpu
-    container_name: "kerasContainer"
+    build: .
+    container_name: "kerasContainer__"
 
     command: bash
-
+    
     deploy:
       resources:
         reservations:

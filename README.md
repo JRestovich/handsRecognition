@@ -16,6 +16,10 @@ Para instalar ael entrono de desarrolllo del proyecto se de debe seguir los sigu
 
 7) Develop and enjoy
 
+8) Dentro del container se puede programar utilizando jupyter notebooks o python  de forma convencional
+
+9) Si es necesario intalar una libreria se debe agregar en el archivo requierements.txt y rebuildear el contenedor
+
 ## Curso
 [Cursito](https://deeplizard.com/learn/video/RznKVRTFkBY)
 [Documentacion Keras](https://keras.io/)
