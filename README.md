@@ -20,8 +20,13 @@ Para instalar ael entrono de desarrolllo del proyecto se de debe seguir los sigu
 
 9) Si es necesario intalar una libreria se debe agregar en el archivo requierements.txt y rebuildear el contenedor
 
+# Links
 ## Curso
 [Cursito](https://deeplizard.com/learn/video/RznKVRTFkBY)
 [Documentacion Keras](https://keras.io/)
 [11k hands paper](https://sites.google.com/view/11khands?pli=1)
 [Para ver papers](https://sci.hubg.org/mirror)
+## Dataset
+[Para descargar las imagenes](https://drive.google.com/u/0/uc?id=1KcMYcNJgtK1zZvfl_9sTqnyBUTri2aP2&export=download)
+[Para descargar metadata en txt](https://drive.google.com/file/d/1nZN5cjLE_J8AFtY_8j9KO_Y7IkqYIWQ-/view)
+[Para descargar metadata en csv](https://drive.google.com/file/d/1RC86-rVOR8c93XAfM9b9R45L7C2B0FdA/view)
