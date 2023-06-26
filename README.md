@@ -20,6 +20,8 @@ Para instalar ael entrono de desarrolllo del proyecto se de debe seguir los sigu
 
 9) Si es necesario intalar una libreria se debe agregar en el archivo requierements.txt y rebuildear el contenedor
 
+10) Descargar el dataset a partir del link dejado abajo y descomprimirlo en el directorio **dataset**
+
 # Links
 ## Curso
 [Cursito](https://deeplizard.com/learn/video/RznKVRTFkBY)
